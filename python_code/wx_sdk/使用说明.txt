@@ -1,0 +1,4 @@
+如果sdk里面有setup.py这个文件，那就是需要安装的。用命令行cd到这个文件夹，然后执行Python setup.py install即可
+建议使用pip安装京东云Python SDK，如下所示：
+pip install -U jdcloud_sdk
+使用的时候也是import这个库.
