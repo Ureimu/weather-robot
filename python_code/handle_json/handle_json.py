@@ -1,5 +1,7 @@
 import json
 
-def get_pythonlic_json(json_text):
-    text = json.load(json_text)
-    print(text)
+
+def get_pythonlic_json(res:str):
+    text = json.loads(res)
+    msg = text['result']['HeWeather5'][0]['now']['cond']['txt']
+    return msg
