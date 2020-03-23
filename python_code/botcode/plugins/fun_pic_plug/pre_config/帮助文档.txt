@@ -1,0 +1,6 @@
+预设常量与函数:
+三角函数:sin,cos,tan,sec,csc,cot,arcsin,arccos,arctan
+取整函数:around(四舍五入),ceil(向上取整),floor(向下取整)
+指数函数:exp
+对数函数:ln,lnxy(在括号里输入两个参量,和log(y)/log(x)相等)
+常量:pi=3.14159... e=exp(1)=2.718...

@@ -1,0 +1,141 @@
+{'duration': '5', 'fps': '30', 'picsize': '3,3', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n', 'gifname': 'testgif'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:27:20,ends at 2020-03-10 21:27:25.
+It takes 5.422882795333862 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '3,3', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n', 'gifname': 'testgif'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:28:32,ends at 2020-03-10 21:28:37.
+It takes 5.5018370151519775 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '3,3', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:30:03,ends at 2020-03-10 21:30:08.
+It takes 5.534818649291992 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '3,3', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:30:59,ends at 2020-03-10 21:31:05.
+It takes 5.502835988998413 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '3,3', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:36:27,ends at 2020-03-10 21:36:33.
+It takes 5.582792043685913 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2.5,2.5', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:37:31,ends at 2020-03-10 21:37:37.
+It takes 5.527822971343994 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:40:46,ends at 2020-03-10 21:40:54.
+It takes 7.984411239624023 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:41:19,ends at 2020-03-10 21:41:27.
+It takes 7.700573444366455 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:42:14,ends at 2020-03-10 21:42:23.
+It takes 8.765539169311523 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:46:59,ends at 2020-03-10 21:47:07.
+It takes 7.544662714004517 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+[]
+The progess begins at 2020-03-10 21:48:50,ends at 2020-03-10 21:48:57.
+It takes 6.80808687210083 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 21:56:31,ends at 2020-03-10 21:56:39.
+It takes 7.579643249511719 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 22:05:40,ends at 2020-03-10 22:05:48.
+It takes 8.115335464477539 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-10 22:13:16,ends at 2020-03-10 22:13:23.
+It takes 6.509259939193726 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-11 18:25:29,ends at 2020-03-11 18:25:35.
+It takes 6.395314931869507 s to finish.
+
+{'duration': '5', 'fps': '30', 'picsize': '2,2', 'gifname': 'testgif', 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t', 'pic_size': '', 'coo_range': '', 'm_range': '', 'keep_track': '', 'bk_color': 'white', 'precision': '0.01', 'logic2': 'n'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-11 18:28:48,ends at 2020-03-11 18:28:54.
+It takes 6.218416452407837 s to finish.
+
+{'duration': 5, 'fps': 30, 'pic_size': '2,2', 'gifname': '001', 'coo_range': '-5,5,-5,5', 'm_range': '-5,5', 'keep_track': 'n', 'bk_color': 'white', 'precision': 0.01, 'x_fm': 'cos(m)*t', 'y_gm': 'sin(m)*t'}
+['cos(m)*t', 'sin(m)*t']
+The progess begins at 2020-03-11 18:55:28,ends at 2020-03-11 18:55:33.
+It takes 5.211996793746948 s to finish.
+
+{'duration': 5, 'fps': 30, 'pic_size': '2,2', 'gifname': '002', 'coo_range': '-5,5,-5,5', 'm_range': '-5,5', 'keep_track': 'n', 'bk_color': 'white', 'precision': 0.01, 'x_fm': 'cos(m)*t\r\nsin(m)*t', 'y_gm': 't\r\nm'}
+['cos(m)*t\r', 'sin(m)*t', 't\r', 'm']
+The progess begins at 2020-03-11 18:57:01,ends at 2020-03-11 18:57:06.
+It takes 5.426872968673706 s to finish.
+
+{'duration': 5, 'fps': 30, 'pic_size': '2,2', 'gifname': '003', 'coo_range': '-5,5,-5,5', 'm_range': '-5,5', 'keep_track': 'n', 'bk_color': 'white', 'precision': 0.01, 'x_fm': 'ln(m+t)', 'y_gm': 'm'}
+['ln(m+t)', 'm']
+The progess begins at 2020-03-11 19:06:57,ends at 2020-03-11 19:07:02.
+It takes 5.3179357051849365 s to finish.
+
+{'duration': 5, 'fps': 30, 'pic_size': '2,2', 'gifname': 'd', 'coo_range': '-5,5,-5,5', 'm_range': '-5,5', 'keep_track': 'n', 'bk_color': 'white', 'precision': 0.01, 'x_fm': '.ln(m+t).m**2.004', 'y_gm': 'f'}
+['.ln(m+t).m**2.004', 'f']
+Traceback (most recent call last):
+  File "d:\Documents\GitHub\weather-robot\python_code\botcode\plugins\fun_pic_plug\main.py", line 60, in main_fun
+    preconfigdict['copy0'])  # 编译函数表并制作gif
+  File "d:\Documents\GitHub\weather-robot\python_code\botcode\plugins\fun_pic_plug\gifmaker.py", line 103, in make_gif
+    Image.fromarray(make_frame_mpl(t)).save(str(int(t*fps))+".jpeg")
+  File "d:\Documents\GitHub\weather-robot\python_code\botcode\plugins\fun_pic_plug\gifmaker.py", line 90, in make_frame_mpl
+    xt = eval(xfunlist[int(fps * t * lenfunlist + m0)])
+  File "<string>", line 1
+    .ln(m+t).m**2.004
+    ^
+SyntaxError: invalid syntax
+
+
+{'duration': 5, 'fps': 30, 'pic_size': '2,2', 'gifname': '函数=ln(m+t)=m**2=004', 'coo_range': '-5,5,-5,5', 'm_range': '-5,5', 'keep_track': 'n', 'bk_color': 'white', 'precision': 0.01, 'x_fm': '函数=ln(m+t)=m**2=004', 'y_gm': 'ln(m+t).m**2.004'}
+['函数=ln(m+t)=m**2=004', 'ln(m+t).m**2.004']
+Traceback (most recent call last):
+  File "d:\Documents\GitHub\weather-robot\python_code\botcode\plugins\fun_pic_plug\main.py", line 60, in main_fun
+    preconfigdict['copy0'])  # 编译函数表并制作gif
+  File "d:\Documents\GitHub\weather-robot\python_code\botcode\plugins\fun_pic_plug\gifmaker.py", line 103, in make_gif
+    Image.fromarray(make_frame_mpl(t)).save(str(int(t*fps))+".jpeg")
+  File "d:\Documents\GitHub\weather-robot\python_code\botcode\plugins\fun_pic_plug\gifmaker.py", line 90, in make_frame_mpl
+    xt = eval(xfunlist[int(fps * t * lenfunlist + m0)])
+  File "<string>", line 1
+    函数=ln(m+t)=m**2=004
+      ^
+SyntaxError: invalid syntax
+
+
+{'duration': 5, 'fps': 30, 'pic_size': '2,2', 'gifname': '040', 'coo_range': '-5,5,-5,5', 'm_range': '-5,5', 'keep_track': 'n', 'bk_color': 'white', 'precision': 0.01, 'x_fm': 'cos(m)', 'y_gm': 'sin(m)'}
+['cos(m)', 'sin(m)']
+The progess begins at 2020-03-21 11:07:25,ends at 2020-03-21 11:07:29.
+It takes 4.60903525352478 s to finish.
+
+1
+1
+1
+1
+1
+1
+{'duration': 5, 'fps': 30, 'pic_size': '2,2', 'gifname': '041', 'coo_range': '-5,5,-5,5', 'm_range': '-5,5', 'keep_track': 'n', 'bk_color': 'white', 'precision': 0.01, 'x_fm': 'cos(m)', 'y_gm': 'sin(m)'}
+['cos(m)', 'sin(m)']
+The progess begins at 2020-03-21 11:24:00,ends at 2020-03-21 11:24:05.
+It takes 4.705968618392944 s to finish.
+

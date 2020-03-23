@@ -41,5 +41,5 @@ async def _(session: CommandSession):
 
 
 async def get_weather_of_city(city: str) -> str:
-    msg = handle_json.handle_weather_json.get_weather_str(city)  # 处理返回的json格式天气信息,返回一个字典
-    return f'你好～现在{city}的天气是{msg["weather"]},最高温度为{msg["max_tep"]}度,最低温度为{msg["min_tep"]}度.'
+    msg = handle_json.handle_weather_json.get_weather_dict(city)  # 处理返回的json格式天气信息,返回一个字典
+    return f'你好～现在{city}的天气是{msg["weather"]},最高温度为{msg["max_tep"]}度,最低温度为{msg["min_tep"]}度,{msg["dress_suggest"]}'
